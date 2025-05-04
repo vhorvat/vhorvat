@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Viktor,
+## 👋 Hi, I’m Viktor
 
 a graduate student of Information and Communication Technology at FER, University of Zagreb. 
 
