@@ -1,6 +1,4 @@
-## 👋 Hi, I’m Viktor
-
-a graduate student of Information and Communication Technology at FER, University of Zagreb. 
+## 👋 Hi, I’m Viktor!
 
 I specialize in embedded systems, wireless technologies and robotic systems, with hands-on experience in Linux-based embedded development at Ericsson Nikola Tesla developing high performance mobile communication systems. 
 
